@@ -30,9 +30,10 @@ const Footer = () => {
           <div>
             <h3 className="font-semibold mb-4">Contact Info</h3>
             <ul className="space-y-2 text-primary-foreground/80">
-              <li>123 Education Street</li>
-              <li>+91 98765 43210</li>
-              <li>info@rkcoachinghub.com</li>
+              <li>D 27 Shastri Nagar Bhopal</li>
+              <li>+91 88715 88820</li>
+              <li>+91 8839640590</li>
+              <li>rkcoachinghub@gmail.com </li>
             </ul>
           </div>
           

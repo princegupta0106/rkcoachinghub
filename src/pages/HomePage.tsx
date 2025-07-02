@@ -104,7 +104,7 @@ const HomePage = () => {
       <section className="py-16 bg-background">
         <div className="container mx-auto px-4">
           <div className="text-center mb-12">
-            <h2 className="text-3xl font-bold text-primary mb-4">Why Choose Elite Coaching?</h2>
+            <h2 className="text-3xl font-bold text-primary mb-4">Why Choose RK Coaching?</h2>
             <p className="text-muted-foreground max-w-2xl mx-auto">
               We provide comprehensive education with experienced faculty and proven results
             </p>

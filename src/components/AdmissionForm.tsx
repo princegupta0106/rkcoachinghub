@@ -20,12 +20,18 @@ const AdmissionForm = () => {
   const { toast } = useToast();
 
   const courses = [
-    "JEE Main & Advanced",
-    "NEET",
-    "Class 10 Foundation",
-    "Class 11 Science",
-    "Class 12 Science",
-    "Competitive Exam Prep"
+    "Class 1 All Subjects",
+    "Class 2 All Subjects",
+    "Class 3 All Subjects",
+    "Class 4 All Subjects",
+    "Class 5 All Subjects",
+    "Class 6 All Subjects",
+    "Class 7 All Subjects",
+    "Class 8 All Subjects",
+    "Class 9 All Subjects",
+    "Class 10 All Subjects",
+    "Class 11 PCM",
+    "Class 12 PCB"
   ];
 
   const handleInputChange = (field: string, value: string) => {

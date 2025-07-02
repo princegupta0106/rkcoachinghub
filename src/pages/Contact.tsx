@@ -22,9 +22,9 @@ const Contact = () => {
                 <div>
                   <h3 className="font-semibold mb-2">Address</h3>
                   <p className="text-muted-foreground">
-                    123 Education Street<br/>
-                    Academic District<br/>
-                    City, State 12345
+                    D 27 Shastri Nagar Bhopal<br/>
+                    RK Coaching Hub<br/>
+                    Madhya Pradesh, India
                   </p>
                 </div>
                 <div>
@@ -33,7 +33,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <h3 className="font-semibold mb-2">Email</h3>
-                  <p className="text-muted-foreground">info@elitecoaching.com</p>
+                  <p className="text-muted-foreground">rkcoachinghub@gmail.com </p>
                 </div>
                 <div>
                   <h3 className="font-semibold mb-2">Office Hours</h3>
