@@ -74,7 +74,7 @@ const HomePage = () => {
         <div className="absolute inset-0 bg-primary/70"></div>
         <div className="relative z-10 text-center text-primary-foreground px-4 max-w-4xl mx-auto">
           <h1 className="text-4xl md:text-6xl font-bold mb-6 animate-fade-in">
-            Elite Coaching Center
+            RK Coaching Hub
           </h1>
           <p className="text-xl md:text-2xl mb-8 opacity-90 animate-slide-up">
             Empowering students to achieve their dreams through excellence in education
@@ -91,7 +91,8 @@ const HomePage = () => {
             <Button 
               size="lg" 
               variant="outline" 
-              className="border-primary-foreground text-primary-foreground hover:bg-primary-foreground hover:text-primary"
+              className="border-primary-foreground text-black  hover:bg-primary-foreground hover:text-primary"
+              onClick={scrollToAdmission}
             >
               Learn More
             </Button>
