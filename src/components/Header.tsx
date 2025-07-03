@@ -81,7 +81,7 @@ const Header = () => {
                 </Link>
               ))}
               <Button variant="default" size="sm" className="w-fit" asChild>
-                <Link to="#admission">Apply Now</Link>
+                <Link to="/contact">Apply Now</Link>
               </Button>
             </nav>
           </div>
